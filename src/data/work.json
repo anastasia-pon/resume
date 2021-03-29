@@ -1,0 +1,77 @@
+[
+  {
+    "id": "1",
+    "title": "Full Stack JavaScript Developer",
+    "org": "School of Applied Technology </salt>",
+    "location": "Sweden",
+    "period": "January 2021 - Present",
+    "tasks": [
+      "Work on projects that involve React.js, Node.js, Express, HTTP, Fetch, REST API, asynchronous programming, GraphQL, MongoDB, HTML, CSS, following Test Driven Development, UX and responsive design principles. IT and Learning Intern."
+    ]
+  },
+  {
+    "id": "2",
+    "title": "IT and Learning Intern",
+    "org": "LOOP Microlearning",
+    "location": "Sweden",
+    "period": "June 2020 – September 2020",
+    "tasks": [
+      "Gamification design for learner motivation and feedback features in an online learner management platform.",
+      "Analyzed data and presented technical training needs for a Swedish aerospace company, wrote white papers.",
+      "Designed surveys to assess upskilling trends, learning culture and processes in a Finnish Sales company.",
+      "Conducted market research on collaborative online learning solutions."
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Web Design Customer Support Agent",
+    "org": "MotoPress",
+    "location": "Ukraine",
+    "period": "August 2017 – August 2019",
+    "tasks": [
+      "Worked for B2B digital solutions company providing customer support services through online social media channels, ticketing system and email.",
+      "Provided technical support and code customization for customers to assist them in their web design.",
+      "Developed three code customizations for official releases of software as bug fixes and feature improvements.",
+      "Designed e-learning support materials for customers including written documents, video tutorials and presentations.",
+      "Created and delivered a training programme for new support agent staff and delivered the training to 17 new team members using a blended learning approach of e-learning and face to face delivery.",
+      "Mentorship for an employee and assisted in the development of both their technical and customer services skills to support career progression."
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Teacher",
+    "org": "Admiral Makarov National University",
+    "location": "Ukraine",
+    "period": "April 2018 - May 2019",
+    "tasks": [
+      "Prepared lessons and taught Greek language courses.",
+      "Created a WordPress learning platform for students to revise materials, complete interactive exercises, review progress and view homework.",
+      "Technical implementation and all content creation for the Learning Platform to support student success.",
+      "Gained a teaching promotion from a summer course to an elective."
+      ]
+  },
+  {
+    "id": "5",
+    "title": "Teaching Assistant",
+    "org": "University of Turku",
+    "location": "Finland",
+    "period": "January 2017 – May 2017",
+    "tasks": [
+      "Led discussions and activities in Russian language courses.",
+      "Designed and delivered presentations on cultural studies.",
+      "Used various learning strategies to support individual learning sessions."
+      ]
+  },
+  {
+    "id": "6",
+    "title": "Teacher",
+    "org": "School #83",
+    "location": "Ukraine",
+    "period": "August 2016 – December 2016",
+    "tasks": [
+      "Created a programme for delivery as part of the Greek course.",
+      "Taught English and Greek to 1st, 9th and 10th Grade students.",
+      "Organized extra-curricular activities within the school."
+      ]
+  }
+]

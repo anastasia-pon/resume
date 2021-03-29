@@ -1,0 +1,50 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding-top: 65px;
+  border-bottom: 5px solid transparent;
+  border-image: linear-gradient(to bottom right, #b827fc 0%, #2c90fc 25%, #b8fd33 50%, #fec837 75%, #fd1892 100%);
+  border-image-slice: 1;
+}
+
+.card_intro {
+  margin: 0 1em;
+}
+
+.intro_name {
+  text-align: center;
+  font-size: 1.7em;
+}
+
+.intro_title {
+  text-align: center;
+  font-size: 1.1em;
+  margin: 1em 0;
+}
+
+.contacts_incons {
+  text-align: center;
+  font-size: 1.6em;
+}
+
+.contacts_incons a {
+  margin: 1em;
+}
+
+.contacts_location i {
+  color: #00adb5;
+}
+
+.intro_contacts {
+  margin: 0 auto;
+  max-width: 300px;
+}
+
+.intro_contacts > * {
+  line-height: 1.6em;
+}
+
+.card_presentation {
+  margin: 1em;
+}

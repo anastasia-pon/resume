@@ -1,0 +1,49 @@
+[
+  {
+    "id": "1",
+    "title": "Master’s in Information Technology and Learning",
+    "org": "University of Gothenburg",
+    "location": "Sweden",
+    "period": "September 2019 - present",
+    "tasks": [
+      "Course Work: Feedback design in e-learning apps and its effect on performance.",
+      "Product Design Project: Learning Management System in collaboration with the Football Academy of Gothenburg.",
+      "Data analysis: The role of digital collaborative learning in Swedish schools.",
+      "Field Study: Literacies for effective learning about mental health on Instagram.",
+      "Course Work: Evaluation of the design of an e-learning website.",
+      "Development Project: Design patterns for preserving user engagement in web-based museum exhibits in collaboration with World Culture Museum."
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Full Stack JavaScript",
+    "org": "Treehouse",
+    "period": "December 2020 – January 2021",
+    "tasks": [
+      "JavaScript, Object-Oriented JS, Node.js, Express.",
+      "REST API, SQL, CSS, HTML, npm, debugging."
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Master’s in Modern Languages",
+    "org": "Mechnikov’ University",
+    "location": "Ukraine",
+    "period": "September 2016 – June 2017",
+    "tasks": [
+      "Translation, Pedagogy, Sociology and Cultural Studies.",
+      "Exchange programme in Finland including responsive teaching."
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Bachelor’s in Modern Languages",
+    "org": "Mechnikov’ University",
+    "location": "Ukraine",
+    "period": "September 2012 – June 2016",
+    "tasks": [
+      "GPA: 86.2/100 and 3rd place award in International student competition.",
+      "Exchange programme in Greece studying English, Greek and Spanish."
+    ]
+  }
+]

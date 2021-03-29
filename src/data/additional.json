@@ -1,0 +1,33 @@
+{
+  "other": [
+    {
+      "id": "1",
+      "title": "Member",
+      "org": "UNICEF Local Group",
+      "location": "Sweden",
+      "period": "October 2019 - present",
+      "tasks": [
+        "Creating, managing and coordinating bi-weekly events for children at a Transition Centre for refugees, teaching Children’s rights at various cultural events."
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Sustainability Leadership Training",
+      "org": "ASAP",
+      "location": "Sweden",
+      "period": "November 2019",
+      "tasks": [
+        "Completed Sustainability Leadership Training programme.",
+        "Participation in design workshops with Accenture and LRF – Federation of Swedish Farmers."
+      ]
+    }
+  ],
+  "hobbies": ["Web Development", "drawing"],
+  "languages": {
+    "english": "fluent",
+    "swedish": "intermediate",
+    "russian": "fluent",
+    "ukrainian": "fluent",
+    "greek": "fluent"
+  }
+}

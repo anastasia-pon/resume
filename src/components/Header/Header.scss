@@ -1,0 +1,23 @@
+.header {
+  text-align: right;
+  position: fixed;
+  top: 0;
+  background-color: #eeeeee;
+  width: 100%;
+  border-bottom: 3px solid transparent;
+  border-image: linear-gradient(to bottom right, #00adb5 50%, #0012b5 75%, #a000b5 100%);
+  border-image-slice: 1;
+}
+
+.header a {
+  padding: 0 1em;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.header_menu {
+  margin: 0.8em;
+}
+
+.header_menu a:not(:last-of-type) {
+  border-right: solid 1px #7b9b9c;
+}
