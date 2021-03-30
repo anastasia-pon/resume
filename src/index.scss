@@ -10,8 +10,8 @@ main {
 }
 
 h1, h2, h3 {
-  font-size: 2em;
-  margin: 0.67em 0;
+  font-weight: inherit;
+  margin: 0;
 }
 
 img {
@@ -111,4 +111,15 @@ code {
 
 a:hover {
   color: #00adb5;
+}
+
+h2 {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 1em 0;
+}
+
+h3 {
+  font-size: 16px;
+  padding: 1em 0;
 }
